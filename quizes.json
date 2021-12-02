@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"title": "Ikonické hračky 80. let",
+		"image": "moncicak.jpg",
+		"questions": 3
+	},
+	{
+		"id": 2,
+		"title": "Pohádkové postavy",
+		"image": "snehurka.jpg",
+		"questions": 5
+	},
+	{
+		"id": 3,
+		"title": "Oblíbené nápoje",
+		"image": "pivo.jpg",
+		"questions": 5
+	}
+]

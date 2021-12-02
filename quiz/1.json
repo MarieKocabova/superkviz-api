@@ -1,0 +1,37 @@
+{
+	"id": 1,
+	"title": "Ikonické hračky 80. let",
+	"image": "moncicak.jpg",
+	"questions": [
+		{
+			"title": "Co je ikonická hračka z 80. let?",
+			"image": "moncicak.jpg",
+			"answers": [
+				"Kočičák",
+				"Mončičák",
+				"Opičák"
+			],
+			"correctAnswer": 1
+		},
+		{
+			"title": "Co je nejlepší stavebnice na světě?",
+			"image": "moncicak.jpg",
+			"answers": [
+				"Lego",
+				"Duplo",
+				"Merkur"
+			],
+			"correctAnswer": 2
+		},
+		{
+			"title": "Lego měl málokdo, ale každý měl...?",
+			"image": "moncicak.jpg",
+			"answers": [
+				"Igráčka",
+				"Igora",
+				"Ignáce"
+			],
+			"correctAnswer": 0
+		}
+	]
+}
