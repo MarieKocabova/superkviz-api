@@ -1,0 +1,64 @@
+{
+	"id": 2,
+	"title": "Pohádkové postavy",
+	"image": "snehurka.jpg",
+	"questions": [
+		{
+			"id": 1,
+			"title": "Zrcadlo, kdo je na světě nejkrásnější?",
+			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/snehurka.jpg",
+			"answers": [
+				"Ledová královna",
+				"Sněhurka",
+				"Já! Já jsem nejkrásnější!"
+			],
+			"correctAnswer": 2
+		},
+		{
+			"id": 2,
+			"title": "Jak se jmenovala Shrekova životní láska?",
+			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/fiona.jpg",
+			"answers": [
+				"Princezna Fiona",
+				"Jeskyňka Shrekyňka",
+				"Zelená Sally",
+				"Obryně Jarmila"
+			],
+			"correctAnswer": 0
+		},
+		{
+			"id": 3,
+			"title": "Kdo měl ty nejlepší kalhotky s kapsami?",
+			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/krtecek.jpg",
+			"answers": [
+				"Zajíček",
+				"Krteček",
+				"Ježeček",
+				"Kapsy jsou k ničemu"
+			],
+			"correctAnswer": 1
+		},
+		{
+			"id": 4,
+			"title": "Co drakům nejvíc chutná?",
+			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/drak.jpg",
+			"answers": [
+				"Pracovníci magistrátu",
+				"Děti, co si nečistí zuby",
+				"Princezny"
+			],
+			"correctAnswer": 2
+		},
+		{
+			"id": 5,
+			"title": "Kdo je hlavní hrdinka/hrdina Ledového království?",
+			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/frozen.jpg",
+			"answers": [
+				"Anna",
+				"Elza",
+				"Olaf"
+			],
+			"correctAnswer": 0
+		}
+	]
+}
