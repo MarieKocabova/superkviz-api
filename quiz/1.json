@@ -1,40 +1,77 @@
 {
-	"id": 1,
-	"title": "Ikonické hračky 80. let",
-	"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/moncicak.jpg",
-	"questions": [
-		{
-			"id": 1,
-			"title": "Co je ikonická hračka z 80. let?",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/moncicak.jpg",
-			"answers": [
-				"Kočičák",
-				"Mončičák",
-				"Opičák"
-			],
-			"correctAnswer": 1
-		},
-		{
-			"id": 2,
-			"title": "Co je nejlepší stavebnice na světě?",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/merkur.jpg",
-			"answers": [
-				"Lego",
-				"Duplo",
-				"Merkur"
-			],
-			"correctAnswer": 2
-		},
-		{
-			"id": 3,
-			"title": "Lego měl málokdo, ale každý měl...?",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/igracek.jpg",
-			"answers": [
-				"Igráčka",
-				"Igora",
-				"Ignáce"
-			],
-			"correctAnswer": 0
-		}
-	]
+  "id": 1,
+  "title": "Fascinující lidské tělo",
+  "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/main.jpg",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Která část těla se jako jediná nedokáže za žádných okolností sama vyléčit?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/1.jpg",
+      "answers": ["Zub", "Ucho", "Jazyk"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "title": "Kolik kostí tvoří lidskou lebku?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/2.jpg",
+      "answers": ["7", "19", "22"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "title": "Kostra se během života dynamicky mění. Kdo má víc kostí – dítě, nebo dospělý?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/3.jpg",
+      "answers": ["Dítě", "Dospělý", "Počet kostí se za života nemění, mění se jen jejich délka."],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "title": "Co se s postupujícím věkem stává s lidským mozkem?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/4.jpg",
+      "answers": ["Zmenšuje se", "Je lehčí a lehčí", "Mění barvu, respektive tmavne."],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "title": "Který orgán lidského těla je největší?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/5.jpg",
+      "answers": ["Mozek", "Střeva", "Kůže"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "title": "Do kolika let rostou oči?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/6.jpg",
+      "answers": ["Oči nerostou, jsou od narození stejné.", "Rostou do 3 let.", "Rostou celý život."],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "title": "Kolikrát za den se člověk průměrně nadechne?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/7.jpg",
+      "answers": ["2 300krát", "23 000krát", "23 000krát"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 8,
+      "title": "Který nerv v těle je nejsilnější?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/8.jpg",
+      "answers": ["Sedací", "Zrakový", "Trojklaný"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 9,
+      "title": "Jakou barvu mají plíce novorozence?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/9.jpg",
+      "answers": ["Růžovou", "Krémovou", "Světle šedou"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 10,
+      "title": "Lidé nedokážou dýchat a polykat zároveň. Výjimkou jsou kojenci. Kdy po narození tato schopnost vymizí?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/10.jpg",
+      "answers": ["Ihned", "Do 2 týdnů", "Do 7 měsíců"],
+      "correctAnswer": 2
+    }
+  ]
 }
