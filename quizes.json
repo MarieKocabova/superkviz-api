@@ -1,20 +1,26 @@
 [
-	{
-		"id": 1,
-		"title": "Ikonické hračky 80. let",
-		"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/moncicak.jpg",
-		"questions": 3
-	},
-	{
-		"id": 2,
-		"title": "Pohádkové postavy",
-		"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/snehurka.jpg",
-		"questions": 5
-	},
-	{
-		"id": 3,
-		"title": "Oblíbené nápoje",
-		"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/pivo.jpg",
-		"questions": 4
-	}
+  {
+    "id": 1,
+    "title": "Fascinující lidské tělo",
+    "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/main.jpg",
+    "questions": 3
+  },
+  {
+    "id": 2,
+    "title": "Ikonické hračky 80. let",
+    "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/moncicak.jpg",
+    "questions": 3
+  },
+  {
+    "id": 3,
+    "title": "Pohádkové postavy",
+    "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/snehurka.jpg",
+    "questions": 5
+  },
+  {
+    "id": 4,
+    "title": "Oblíbené nápoje",
+    "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/pivo.jpg",
+    "questions": 4
+  }
 ]
