@@ -1,77 +1,42 @@
 {
   "id": 1,
-  "title": "Fascinující lidské tělo",
-  "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/main.jpg",
+  "title": "Vánoční kvíz Bára",
+  "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/vanocni_kviz.jpg",
   "questions": [
     {
       "id": 1,
-      "title": "Která část těla se jako jediná nedokáže za žádných okolností sama vyléčit?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/1.jpg",
-      "answers": ["Zub", "Ucho", "Jazyk"],
-      "correctAnswer": 0
+      "title": "Co se nejčastěji dělá na vánoce?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/stromecek.jpg",
+      "answers": ["Plete se pomlázka", "Zdobí se stromeček", "Sbírá se listí"],
+      "correctAnswer": 1
     },
     {
       "id": 2,
-      "title": "Kolik kostí tvoří lidskou lebku?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/2.jpg",
-      "answers": ["7", "19", "22"],
+      "title": "Co bylo nad chlévem, když se Ježíš narodil?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/kometa.jpg",
+      "answers": ["Kometa zhasla.", "Kometa spadla na zem.", "Kometa svítila nad chlévem."],
       "correctAnswer": 2
     },
     {
       "id": 3,
-      "title": "Kostra se během života dynamicky mění. Kdo má víc kostí – dítě, nebo dospělý?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/3.jpg",
-      "answers": ["Dítě", "Dospělý", "Počet kostí se za života nemění, mění se jen jejich délka."],
-      "correctAnswer": 0
+      "title": "Co se na Vánoce nejvíc vyrábí?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/stromecek2.jpg",
+      "answers": ["Nejvíc se vyrábí žabka.", "Nejvíc se vyrábí náramky.", "Nejvíc se vyrábí stromeček."],
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "title": "Co se s postupujícím věkem stává s lidským mozkem?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/4.jpg",
-      "answers": ["Zmenšuje se", "Je lehčí a lehčí", "Mění barvu, respektive tmavne."],
+      "title": "Co je kratší o Vánoce, den nebo noc?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/noc.jpg",
+      "answers": ["Noc je kratší.", "Noc je delší.", "Noc je stejně dlouhá jako v létě."],
       "correctAnswer": 1
     },
     {
       "id": 5,
-      "title": "Který orgán lidského těla je největší?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/5.jpg",
-      "answers": ["Mozek", "Střeva", "Kůže"],
-      "correctAnswer": 2
-    },
-    {
-      "id": 6,
-      "title": "Do kolika let rostou oči?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/6.jpg",
-      "answers": ["Oči nerostou, jsou od narození stejné.", "Rostou do 3 let.", "Rostou celý život."],
-      "correctAnswer": 0
-    },
-    {
-      "id": 7,
-      "title": "Kolikrát za den se člověk průměrně nadechne?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/7.jpg",
-      "answers": ["2 300krát", "23 000krát", "230 000krát"],
+      "title": "Co se v zimě nejvíc nosí?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/svetr.jpg",
+      "answers": ["Nejvíc se nosí šaty.", "Nejvíc se nosí svetr.", "Nejvíc se nosí kraťasy."],
       "correctAnswer": 1
-    },
-    {
-      "id": 8,
-      "title": "Který nerv v těle je nejsilnější?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/8.jpg",
-      "answers": ["Sedací", "Zrakový", "Trojklaný"],
-      "correctAnswer": 0
-    },
-    {
-      "id": 9,
-      "title": "Jakou barvu mají plíce novorozence?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/9.jpg",
-      "answers": ["Růžovou", "Krémovou", "Světle šedou"],
-      "correctAnswer": 0
-    },
-    {
-      "id": 10,
-      "title": "Lidé nedokážou dýchat a polykat zároveň. Výjimkou jsou kojenci. Kdy po narození tato schopnost vymizí?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/10.jpg",
-      "answers": ["Ihned", "Do 2 týdnů", "Do 7 měsíců"],
-      "correctAnswer": 2
     }
   ]
 }

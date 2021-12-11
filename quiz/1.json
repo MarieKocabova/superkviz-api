@@ -1,41 +1,41 @@
 {
   "id": 1,
-  "title": "Vánoční kvíz",
-  "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/vanocni_kviz.jpg",
+  "title": "Vánoční kvíz Terezka",
+  "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/vanocni_kviz_terezka.jpg",
   "questions": [
     {
       "id": 1,
-      "title": "Co se nejčastěji dělá na vánoce?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/stromecek.jpg",
-      "answers": ["Plete se pomlázka", "Zdobí se stromeček", "Sbírá se listí"],
+      "title": "Jak se připravujeme na Vánoce?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/zdobime.jpg",
+      "answers": ["Nosíme dříví", "Zdobíme stromeček", "Nosíme kamení"],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "title": "Co bylo nad chlévem, když se Ježíš narodil?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/kometa.jpg",
-      "answers": ["Kometa zhasla.", "Kometa spadla na zem.", "Kometa svítila nad chlévem."],
-      "correctAnswer": 2
+      "title": "Venku padá...",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/snih.jpg",
+      "answers": ["Sníh", "Listí", "Kaštany"],
+      "correctAnswer": 0
     },
     {
       "id": 3,
-      "title": "Co se na Vánoce nejvíc vyrábí?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/stromecek2.jpg",
-      "answers": ["Nejvíc se vyrábí žabka.", "Nejvíc se vyrábí náramky.", "Nejvíc se vyrábí stromeček."],
+      "title": "Topíme v...",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/krb.jpg",
+      "answers": ["Lednici", "Grilu", "Kamnech"],
       "correctAnswer": 2
     },
     {
       "id": 4,
-      "title": "Co je kratší o Vánoce, den nebo noc?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/noc.jpg",
-      "answers": ["Noc je kratší.", "Noc je delší.", "Noc je stejně dlouhá jako v létě."],
+      "title": "Co si máme vzít na sebe, když sněží?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/bunda.jpg",
+      "answers": ["Šaty", "Bundu", "Sukni", "Plavky"],
       "correctAnswer": 1
     },
     {
       "id": 5,
-      "title": "Co se v zimě nejvíc nosí?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/svetr.jpg",
-      "answers": ["Nejvíc se nosí šaty.", "Nejvíc se nosí svetr.", "Nejvíc se nosí kraťasy."],
+      "title": "Nad Betlémem létá...",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/andel.jpg",
+      "answers": ["Motýl", "Anděl", "Ovečka"],
       "correctAnswer": 1
     }
   ]
