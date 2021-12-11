@@ -1,35 +1,42 @@
 {
-  "id": 3,
-  "title": "Oblíbené nápoje",
-  "image": "pivo.jpg",
+  "id": 2,
+  "title": "Pohádkové postavy",
+  "image": "snehurka.jpg",
   "questions": [
     {
       "id": 1,
-      "title": "Nejlepší pivo je...?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/pivo.jpg",
-      "answers": ["Starobrno", "Plzeň", "Kozel", "Heineken", "Vždyť je to jedno..."],
-      "correctAnswer": 4
-    },
-    {
-      "id": 2,
-      "title": "K sýrům se hodí jaké víno?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/vino.jpg",
-      "answers": ["Červené", "Bílé", "Záleží na sýru"],
+      "title": "Zrcadlo, kdo je na světě nejkrásnější?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/snehurka.jpg",
+      "answers": ["Ledová královna", "Sněhurka", "Já! Já jsem nejkrásnější!"],
       "correctAnswer": 2
     },
     {
+      "id": 2,
+      "title": "Jak se jmenovala Shrekova životní láska?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/fiona.jpg",
+      "answers": ["Princezna Fiona", "Jeskyňka Shrekyňka", "Zelená Sally", "Obryně Jarmila"],
+      "correctAnswer": 0
+    },
+    {
       "id": 3,
-      "title": "Jaká káva je nejlepší?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/kafe.jpg",
-      "answers": ["Černá", "Černá s cukrem", "Černá s mlékem", "Cikorka"],
+      "title": "Kdo měl ty nejlepší kalhotky s kapsami?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/krtecek.jpg",
+      "answers": ["Zajíček", "Krteček", "Ježeček", "Kapsy jsou k ničemu"],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "title": "Jaký koktejl preferuje 9 z 10 žen?",
-      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/koktejl.jpg",
-      "answers": ["Řůžový gin s tonikem", "Mojito", "Piña Colada"],
+      "title": "Co drakům nejvíc chutná?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/drak.jpg",
+      "answers": ["Pracovníci magistrátu", "Děti, co si nečistí zuby", "Princezny"],
       "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "title": "Kdo je hlavní hrdinka/hrdina Ledového království?",
+      "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/frozen.jpg",
+      "answers": ["Anna", "Elza", "Olaf"],
+      "correctAnswer": 0
     }
   ]
 }

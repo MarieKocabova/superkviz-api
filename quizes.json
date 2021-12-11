@@ -1,24 +1,30 @@
 [
   {
     "id": 1,
+    "title": "Vánoční kvíz",
+    "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/vanocni_kviz.jpg",
+    "questions": 5
+  },
+  {
+    "id": 2,
     "title": "Fascinující lidské tělo",
     "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/main.jpg",
     "questions": 10
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Ikonické hračky 80. let",
     "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/moncicak.jpg",
     "questions": 3
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Pohádkové postavy",
     "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/snehurka.jpg",
     "questions": 5
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Oblíbené nápoje",
     "image": "https://github.com/MarieKocabova/superkviz-api/raw/main/images/pivo.jpg",
     "questions": 4
